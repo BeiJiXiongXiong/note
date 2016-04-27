@@ -1,4 +1,3 @@
 # note
-note for everything
-## This is the first day note ##
-#### <i class="icon-upload"></i> Publish a document
+##CSS
+Vertical Centering With CSS [http://vanseodesign.com/css/vertical-centering]
