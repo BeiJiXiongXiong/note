@@ -1,3 +1,1 @@
-# note
-##CSS
-Vertical Centering With CSS [http://vanseodesign.com/css/vertical-centering]
+See Wiki for the entire note
